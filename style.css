@@ -8,6 +8,7 @@ body{
     overflow-y: hidden;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
+    scroll-snap-stop: always;
     background-color: rgb(36, 37, 54);
   }
   
