@@ -14,7 +14,7 @@ body{
   
   .child {
     scroll-snap-align: start;
-    min-height: 90vh;
+    min-height: 80vh;
     min-width: 100vw;
     background-color: black;
     margin: 2px;
