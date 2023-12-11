@@ -17,4 +17,16 @@ body{
     min-width: 100vw;
     background-color: black;
     margin: 2px;
+    display: flex;
   }
+
+.bottomimgbar {
+    margin-top: 88vh;
+}
+
+.bimgbardiv {
+    margin: auto;
+}
+h1 {
+    color: white;
+}
